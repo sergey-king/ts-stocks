@@ -1,6 +1,6 @@
 # Stocks Watchlist - React Native Project
 
-
+https://github.com/sergey-king/ts-stocks/assets/48575848/b77830de-69f0-416f-ae31-1c8a7b91e47f
 
 ## Setup
 This project is bootstrapped with `npx create-expo-app -t expo-template-blank-typescript`. 
