@@ -59,4 +59,4 @@ RTK Query is employed. Similar to React Query but made to work with Redux/RTK (h
 - Improve GitHub setup with husky pre-commit hooks, automatic linting, and test runs.
 
 ## Extras
-Redux with RTK toolkit was used because the latest Redux framework was a requirement for this assessment. However, I would be interested in completing this assessment using next-gen state management libraries like Recoil (by Facebook - https://recoiljs.org/), Jotai (https://jotai.org/), or Zustand (https://docs.pmnd.rs/zustand/getting-started/introduction).
+Latest Redux with RTK Toolkit & RTK Query was used because it's the most common and popular state manager/data fetching among react-native community. However, I would be interested in completing this assessment using next-gen state management libraries like Recoil (by Facebook - https://recoiljs.org/), Jotai (https://jotai.org/), or Zustand (https://docs.pmnd.rs/zustand/getting-started/introduction).
