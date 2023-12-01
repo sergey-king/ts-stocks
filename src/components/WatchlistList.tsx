@@ -27,7 +27,7 @@ export function WatchlistList({ filter }: WatchlistListProps) {
         Object(tickersData?.map((item: StockTicker) => item.ticker)),
         {
             skip: !tickersData, // we're only going to fetch the price data if we have the tickers data
-            //pollingInterval: 5000, // 5 seconds interval to refetch the price data
+            pollingInterval: 5000, // 5 seconds interval to refetch the price data
         }
     );
 
