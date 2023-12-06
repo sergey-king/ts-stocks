@@ -17,7 +17,7 @@ export const albertApi = createApi({
     extractRehydrationInfo(action, { reducerPath }) {
         // when persisting the root reducer
         if (action.type === REHYDRATE) {
-            return action.payload[reducerPath];
+            return action.payload?.[reducerPath];
         }
 
         // when persisting the api reducer
